@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NjoYcSg5dyfxhjzB4eIQnRSx4enbVqmsWAaqqNxDuttJRP5Aq6srC0Qye0V5eEkrJ+vl4osxtN/AC4cP3xEZXQ==",
+  "dgSpecHash": "FloPoxy29IGcvhi35aknS8Tlu79l1Judg24LRTFUvc/E5imhHf8Jm5I/E4x3wI7wKM7H0XG/kCqq4tJeOCbQzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\intef\\Desktop\\OPG Newton\\Hemuppgifter\\VeryInterestingApiBackend\\VeryInterestingApiBackend\\VeryInterestingApiBackend.csproj",
+  "projectFilePath": "C:\\Users\\intef\\source\\repos\\Hemuppgifter\\very_interesting_api_backend\\VeryInterestingApiBackend\\VeryInterestingApiBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\intef\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\intef\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

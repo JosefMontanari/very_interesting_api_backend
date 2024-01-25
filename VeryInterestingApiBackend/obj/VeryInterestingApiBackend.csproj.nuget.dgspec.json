@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\intef\\Desktop\\OPG Newton\\Hemuppgifter\\VeryInterestingApiBackend\\VeryInterestingApiBackend\\VeryInterestingApiBackend.csproj": {}
+    "C:\\Users\\intef\\source\\repos\\Hemuppgifter\\very_interesting_api_backend\\VeryInterestingApiBackend\\VeryInterestingApiBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\intef\\Desktop\\OPG Newton\\Hemuppgifter\\VeryInterestingApiBackend\\VeryInterestingApiBackend\\VeryInterestingApiBackend.csproj": {
+    "C:\\Users\\intef\\source\\repos\\Hemuppgifter\\very_interesting_api_backend\\VeryInterestingApiBackend\\VeryInterestingApiBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\intef\\Desktop\\OPG Newton\\Hemuppgifter\\VeryInterestingApiBackend\\VeryInterestingApiBackend\\VeryInterestingApiBackend.csproj",
+        "projectUniqueName": "C:\\Users\\intef\\source\\repos\\Hemuppgifter\\very_interesting_api_backend\\VeryInterestingApiBackend\\VeryInterestingApiBackend.csproj",
         "projectName": "VeryInterestingApiBackend",
-        "projectPath": "C:\\Users\\intef\\Desktop\\OPG Newton\\Hemuppgifter\\VeryInterestingApiBackend\\VeryInterestingApiBackend\\VeryInterestingApiBackend.csproj",
+        "projectPath": "C:\\Users\\intef\\source\\repos\\Hemuppgifter\\very_interesting_api_backend\\VeryInterestingApiBackend\\VeryInterestingApiBackend.csproj",
         "packagesPath": "C:\\Users\\intef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\intef\\Desktop\\OPG Newton\\Hemuppgifter\\VeryInterestingApiBackend\\VeryInterestingApiBackend\\obj\\",
+        "outputPath": "C:\\Users\\intef\\source\\repos\\Hemuppgifter\\very_interesting_api_backend\\VeryInterestingApiBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\intef\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
