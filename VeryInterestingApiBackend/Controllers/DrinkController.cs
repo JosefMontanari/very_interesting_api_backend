@@ -80,5 +80,30 @@ namespace VeryInterestingApiBackend.Controllers
             }
             return BadRequest("Could not add that drink, check your Json and try again!");
         }
+        [HttpPut]
+        public ActionResult Put(Drink drink, int id)
+        {
+            Drink? drinkToReplace = Drinks.FirstOrDefault(drink => drink.Id == id);
+            if (drinkToReplace != null && drink != null)
+            {
+                Drinks.Remove(drinkToReplace);
+                Drinks.Add(drink);
+                return Ok("The drink has been changed!");
+            }
+            return BadRequest("Check your inputs and try again!");
+
+        }
+
+        [HttpDelete]
+        public ActionResult Delete(int id)
+        {
+            Drink? drink = Drinks.FirstOrDefault(d => d.Id == id);
+            if (drink != null)
+            {
+                Drinks.Remove(drink);
+                return Ok("Drink removed!");
+            }
+            return BadRequest("Check your inputs and try again!");
+        }
     }
 }
